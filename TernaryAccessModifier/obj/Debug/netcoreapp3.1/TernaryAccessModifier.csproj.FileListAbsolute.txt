@@ -1,0 +1,14 @@
+C:\repos\TernaryAccessModifier\TernaryAccessModifier\obj\Debug\netcoreapp3.1\TernaryAccessModifier.csprojAssemblyReference.cache
+C:\repos\TernaryAccessModifier\TernaryAccessModifier\obj\Debug\netcoreapp3.1\TernaryAccessModifier.AssemblyInfoInputs.cache
+C:\repos\TernaryAccessModifier\TernaryAccessModifier\obj\Debug\netcoreapp3.1\TernaryAccessModifier.AssemblyInfo.cs
+C:\repos\TernaryAccessModifier\TernaryAccessModifier\bin\Debug\netcoreapp3.1\TernaryAccessModifier.exe
+C:\repos\TernaryAccessModifier\TernaryAccessModifier\bin\Debug\netcoreapp3.1\TernaryAccessModifier.deps.json
+C:\repos\TernaryAccessModifier\TernaryAccessModifier\bin\Debug\netcoreapp3.1\TernaryAccessModifier.runtimeconfig.json
+C:\repos\TernaryAccessModifier\TernaryAccessModifier\bin\Debug\netcoreapp3.1\TernaryAccessModifier.runtimeconfig.dev.json
+C:\repos\TernaryAccessModifier\TernaryAccessModifier\bin\Debug\netcoreapp3.1\TernaryAccessModifier.dll
+C:\repos\TernaryAccessModifier\TernaryAccessModifier\bin\Debug\netcoreapp3.1\TernaryAccessModifier.pdb
+C:\repos\TernaryAccessModifier\TernaryAccessModifier\obj\Debug\netcoreapp3.1\TernaryAccessModifier.dll
+C:\repos\TernaryAccessModifier\TernaryAccessModifier\obj\Debug\netcoreapp3.1\TernaryAccessModifier.pdb
+C:\repos\TernaryAccessModifier\TernaryAccessModifier\bin\Debug\netcoreapp3.1\SalesLibrary.dll
+C:\repos\TernaryAccessModifier\TernaryAccessModifier\bin\Debug\netcoreapp3.1\SalesLibrary.pdb
+C:\repos\TernaryAccessModifier\TernaryAccessModifier\obj\Debug\netcoreapp3.1\TernaryAccessModifier.csproj.CopyComplete
